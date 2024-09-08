@@ -3,4 +3,3 @@
 - 💞️ I’m looking to collaborate on web projects, you can also jam with me and make music together. 🎸 
 - ⚡ Fun fact: I'm a cat.
 
-Learning is fun. 💯
