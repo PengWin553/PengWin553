@@ -1,4 +1,4 @@
-![RESEARCH TITLES](https://github.com/user-attachments/assets/89b25080-b6ac-49df-af5b-dedc263ad1e6)
+https://github.com/user-attachments/assets/2a8636d7-5745-4947-9422-0086b50ee029
 
 - 👋 Hi, I’m @PengWin553. You can call me Kobayashi.
 - 👀 I’m interested in writing, reading, coding, and music (mainly playing guitar, singing, and occasionally writing songs with some knowledge of music theory).
