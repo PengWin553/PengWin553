@@ -2,6 +2,7 @@
 - 👀 I’m interested in writing, reading, coding, and music. These hobbies keep me sane.
 - 💞️ I’m looking to collaborate on any projects, especially websites. You can also jam with me and make music together, we might make a good song, too! 🎸 
 - ⚡ Fun fact: I'm a cat.
+- ✍️ This is my second github account.
 
 ![Pengwin553's GitHub stats](https://github-readme-stats.vercel.app/api?username=pengwin553&show_icons=true&theme=radical)
 
