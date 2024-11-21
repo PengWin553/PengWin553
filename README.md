@@ -1,3 +1,5 @@
+![RESEARCH TITLES](https://github.com/user-attachments/assets/89b25080-b6ac-49df-af5b-dedc263ad1e6)
+
 - 👋 Hi, I’m @PengWin553. You can call me Kobayashi.
 - 👀 I’m interested in writing, reading, coding, and music (mainly playing guitar, singing, and occasionally writing songs with some knowledge of music theory).
 - 💞️ I’m looking to collaborate on any projects, especially websites. You can also jam with me and make music together, we might make a good song, too! 🎸 
