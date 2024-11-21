@@ -1,4 +1,4 @@
-![PengWin553-Github-Banner](https://github.com/user-attachments/assets/687784ec-9639-47aa-bfb4-6c970418dd72)
+![PengWin553-Github-Banner](https://github.com/user-attachments/assets/70ea975c-1b0a-46d2-82ae-bf2f394a936e)
 
 - 👋 Hi, I’m @PengWin553. You can call me Kobayashi.
 - 👀 I’m interested in writing, reading, coding, and music (mainly playing guitar, singing, and occasionally writing songs with some knowledge of music theory).
