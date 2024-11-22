@@ -3,9 +3,9 @@
 **- 👋 Hi, I’m @PengWin553, but you can call me **Kobayashi**—the curious cat! 🐾**
 
 **- 🎨 What I Love:**
-  **- Creating:** I enjoy exploring my creative side, whether it’s designing user experiences, coding websites, or writing for fun—be it poetry, random thoughts, or essays.
- ** - Music:** I'm a guitarist, singer (just for fun but people say I'm good. I'm not sure if I believe them, but fun is fun!), and occasional songwriter with some knowledge of music theory. Let's jam and create something magical! 🎸
-  **- Learning:** I’m currently learning C# Web API, ReactJS, and Responsive CSS. It’s a journey, and I’m enjoying every step!
+  - Creating: I enjoy exploring my creative side, whether it’s designing user experiences, coding websites, or writing for fun—be it poetry, random thoughts, or essays.
+  - Music: I'm a guitarist, singer (just for fun but people say I'm good. I'm not sure if I believe them, but fun is fun!), and occasional songwriter with some knowledge of music theory. Let's jam and create something magical! 🎸
+ - Learning: I’m currently learning C# Web API, ReactJS, and Responsive CSS. It’s a journey, and I’m enjoying every step!
   
 **- 💻 Let's Collaborate:**
   - I'm always open to teaming up on projects, especially websites or creative ventures. Got a song idea? A web design challenge? Hit me up!
