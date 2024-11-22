@@ -20,8 +20,7 @@
     
 
 **- 💡 My Philosophy:**
-  - Every pro was once a beginner, and every line of code is part of someone's learning journey. I believe in fostering growth and understanding—you won’t catch me tearing down anyone’s code. After all, we’re   
-  - all here to learn and improve! However, when it comes to music, I tend to be blunt and unfiltered—it’s my way of striving for perfection in a craft I deeply love. 😎🎸
+  - Every pro was once a beginner, and every line of code is part of someone's learning journey. I believe in fostering growth and understanding—you won’t catch me tearing down anyone’s code. After all, we’re all here to learn and improve! However, when it comes to music, I tend to be blunt and unfiltered—it’s my way of striving for perfection in a craft I deeply love. 😎🎸
     
     
 ## 🌐 Socials:
