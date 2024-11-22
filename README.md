@@ -1,7 +1,7 @@
 ![PengWin553-Github-Banner](https://github.com/user-attachments/assets/39c5b05c-c6e2-4c98-a30e-610ca828751d)
 
 - 👋 Hi, I’m @PengWin553. You can call me Kobayashi.
-- 👀 I’m interested in writing, reading, coding, and music (mainly playing guitar, singing, and occasionally writing songs with some knowledge of music theory).
+- 👀 I’m interested in writing, reading, coding,UX/UI design, and music (mainly playing guitar, singing, and occasionally writing songs with some knowledge of music theory).
 - 💞️ I’m looking to collaborate on any projects, especially websites. You can also jam with me and make music together, we might make a good song, too! 🎸 
 - ⚡ Fun fact: I'm a cat.
 - 📚 In the meantime, I'm learning C# Web API, ReactJs, and Responsive CSS.
