@@ -4,7 +4,7 @@
 
 - 🎨 What I Love:
   - Creating: I enjoy exploring my creative side, whether it’s designing user experiences, coding websites, or writing for fun—be it poetry, random thoughts, or essays.
-  - Music: I'm a guitarist, singer (just for fun but people say I'm good), and occasional songwriter with some basic knowledge of music theory. Let's jam and create something magical! 🎸
+  - Music: I'm a guitarist, singer (just for fun but people say I'm good. I'm not sure if I believe them, but fun is fun!), and occasional songwriter with some knowledge of music theory. Let's jam and create something magical! 🎸
   - Learning: I’m currently learning C# Web API, ReactJS, and Responsive CSS. It’s a journey, and I’m enjoying every step!
   
 - 💻 Let's Collaborate:
