@@ -2,22 +2,27 @@
 
 **- 👋 Hi, I’m @PengWin553, but you can call me **Kobayashi**—the curious cat! 🐾**
 
+
 **- 🎨 What I Love:**
   - Creating: I enjoy exploring my creative side, whether it’s designing user experiences, coding websites, or writing for fun—be it poetry, random thoughts, or essays.
   - Music: I'm a guitarist, singer (just for fun but people say I'm good. I'm not sure if I believe them, but fun is fun!), and occasional songwriter with some knowledge of music theory. Let's jam and create something magical! 🎸
  - Learning: I’m currently learning C# Web API, ReactJS, and Responsive CSS. It’s a journey, and I’m enjoying every step!
+
   
 **- 💻 Let's Collaborate:**
   - I'm always open to teaming up on projects, especially websites or creative ventures. Got a song idea? A web design challenge? Hit me up!
+
 
 **- ✨ Fun Facts About Me:**
   - I'm a cat. 😺 (Literally!)
   - Versatility is my thing, blending creativity and curiosity keeps life exciting.
   - This is my second GitHub account, but who's counting?
+    
 
 **- 💡 My Philosophy:**
   - Every pro was once a beginner, and every line of code is part of someone's learning journey. I believe in fostering growth and understanding—you won’t catch me tearing down anyone’s code. After all, we’re   
   - all here to learn and improve! However, when it comes to music, I tend to be blunt and unfiltered—it’s my way of striving for perfection in a craft I deeply love. 😎🎸
+    
     
 ## 🌐 Socials:
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/PengWin553) 
