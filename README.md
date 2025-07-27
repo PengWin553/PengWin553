@@ -1,5 +1,5 @@
 # 💫 About Me  
-** 👋 Hi, I’m @PengWin553, but you can call me **Kobayashi**—the curious cat! 🐾**
+**👋 Hi, I’m @PengWin553, but you can call me **Kobayashi**—the curious cat! 🐾**
 A developer, musician, and cat (literally or metaphorically? Who knows!).  
 I love coding, guitars, writing, and turning ideas into reality.
 
